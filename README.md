@@ -4,7 +4,7 @@ A quick example of how to use machine learning to predict skin cancer based on d
 
 This Jupyter Notebook uses the Skin Cancer MNIST: HAM10000 dataset from Kaggle.
 
-🔗 Dataset link: Skin Cancer MNIST: HAM10000
+🔗 Dataset link: [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 
 This notebook is a personal project that means a lot to me, especially when a loved one is affected by cancer.
 
